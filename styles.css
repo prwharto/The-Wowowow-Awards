@@ -1,4 +1,5 @@
-h1{
+.award{
+    font-size:50px;
     text-align:center;
     font-family: 'Suranna', serif;
     color:white;
@@ -16,8 +17,15 @@ body{
     background-image:url(http://orchard.alpineschools.org/wp-content/uploads/sites/57/2014/08/Galaxy-500x750.jpeg);
 }
 .award{
+    color:blue;
+}
+.category{
+    color:purple;
+}
+.winner{
+    color:white;
+}
+.photograph{
+    border:solid white 5px;
+}
 
-    
-    
-    
-    }
