@@ -2,7 +2,7 @@
     font-size:50px;
     text-align:center;
     font-family: 'Changa', sans-serif;
-    color:white;
+    color:blue;
     }
 h2{
     text-align:center;
@@ -15,17 +15,14 @@ img{
 body{
     text-align:center;
     background-image:url(http://orchard.alpineschools.org/wp-content/uploads/sites/57/2014/08/Galaxy-500x750.jpeg);
-}
-.award{
-    color:blue;
-}
+    }
 .category{
     color:purple;
-}
+    }
 .winner{
     color:white;
-}
+    }
 .photograph{
     border:solid white 5px;
-}
+    }
 
